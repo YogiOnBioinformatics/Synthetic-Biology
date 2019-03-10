@@ -1,7 +1,7 @@
 # Synthetic Biology 
 
 <p align = 'center'> 
-    <img src = "https://geneticliteracyproject.org/wp-content/uploads/2017/11/O3-1-colors.jpeg">
+    <img height = 300 width = 300 src = "https://geneticliteracyproject.org/wp-content/uploads/2017/11/O3-1-colors.jpeg">
 </p>
 
 **Introduction** 

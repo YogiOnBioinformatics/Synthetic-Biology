@@ -14,9 +14,13 @@ This repository contains work I did at the University of Pittsburgh during the S
 
 Review of East China University of Science and Technology (ECUST) project for the 2018 International Genetically Engineered Machine (iGEM) competition. 
 
-📜 `Research/Microfiber Project Proposal.docx` 
+📜 `Research/Microfiber Project Proposal.pdf` 
 
 Initial proposal for semester-long research project related to Synthetic Biology that will be looking at using engineered organisms to solve the synthetic microfiber issue.   
+
+📜 `Research/Microfiber Project Development.pdf`
+
+Project development/progress since beginning with more specific primary literature and usage of iGEM recognized parts to ultimately help me reach my goal to eliminate microfibers in public water.  
 
 📜 `Lecture/Synthetic Biology Lecture.pptx`
 

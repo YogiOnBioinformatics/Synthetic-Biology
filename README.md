@@ -10,23 +10,23 @@ This repository contains work I did at the University of Pittsburgh during the S
 
 **Files** 
 
-📜 `iGEM Presentation/ECUST iGEM 2018 Review.pptx` 
+📜 `iGEM Presentation/ECUST-iGEM-2018-Review.pptx` 
 
 Review of East China University of Science and Technology (ECUST) project for the 2018 International Genetically Engineered Machine (iGEM) competition. 
 
-📜 `Research/Microfiber Project Proposal.pdf` 
+📜 `Research/Microfiber-Project-Proposal.pdf` 
 
 Initial proposal for semester-long research project related to Synthetic Biology that will be looking at using engineered organisms to solve the synthetic microfiber issue.   
 
-📜 `Research/Microfiber Project Development.pdf`
+📜 `Research/Microfiber-Project-Development.pdf`
 
 Project development/progress since beginning with more specific primary literature and usage of iGEM recognized parts to ultimately help me reach my goal to eliminate microfibers in public water.  
 
-📜 `Lecture/Synthetic Biology Lecture.pptx`
+📜 `Lecture/Synthetic-Biology-Lecture.pptx`
 
 Lecture that I gave related to Synthetic Biology research from Dr. Pamela Silver's lab at Harvard Medical School. The research is titled, **A Synthetic System That Senses Candida albicans and Inhibits Virulence Factors**. The paper is available [here](https://pubs.acs.org/doi/10.1021/acssynbio.8b00457). Notes for the lecture are provided in the "Speaker Notes" section of the document. 
 
-📜 `Lecture/Synthetic Biology Lecture Slides.pdf`
+📜 `Lecture/Synthetic-Biology-Lecture-Slides.pdf`
 
 PDF Slides from Synthetic Biology Lecture mentioned above. 
 
